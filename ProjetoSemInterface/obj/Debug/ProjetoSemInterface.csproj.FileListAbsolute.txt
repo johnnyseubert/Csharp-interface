@@ -1,0 +1,7 @@
+C:\Users\Data53454\Desktop\C#\ProjetoSemInterface\ProjetoSemInterface\bin\Debug\ProjetoSemInterface.exe
+C:\Users\Data53454\Desktop\C#\ProjetoSemInterface\ProjetoSemInterface\bin\Debug\ProjetoSemInterface.pdb
+C:\Users\Data53454\Desktop\C#\ProjetoSemInterface\ProjetoSemInterface\obj\Debug\ProjetoSemInterface.csproj.AssemblyReference.cache
+C:\Users\Data53454\Desktop\C#\ProjetoSemInterface\ProjetoSemInterface\obj\Debug\ProjetoSemInterface.csproj.SuggestedBindingRedirects.cache
+C:\Users\Data53454\Desktop\C#\ProjetoSemInterface\ProjetoSemInterface\obj\Debug\ProjetoSemInterface.csproj.CoreCompileInputs.cache
+C:\Users\Data53454\Desktop\C#\ProjetoSemInterface\ProjetoSemInterface\obj\Debug\ProjetoSemInterface.exe
+C:\Users\Data53454\Desktop\C#\ProjetoSemInterface\ProjetoSemInterface\obj\Debug\ProjetoSemInterface.pdb
